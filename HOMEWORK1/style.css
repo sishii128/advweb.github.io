@@ -55,7 +55,15 @@ body{max-width:960px;
 
 h1{font-family: Helvetica;
 	font-weight:bold;
-	}
+	text-align: center;
+	padding-bottom:5px;}
 
 h2{font-family: Helvetica;
-	font-weight:lighter;}
+	font-weight:lighter;
+	text-align:center;
+	padding-bottom:10px;}
+
+#photos{width:350px;
+		display: block;
+    margin-left: auto;
+    margin-right: auto;}
